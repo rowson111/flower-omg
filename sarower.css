@@ -157,3 +157,40 @@
 .img-b4{
     margin-bottom: 120px;
 }
+
+.last{
+    margin: 0px 110px;
+    margin-bottom: 150px;
+}
+.last-div{
+    height: 450px;
+    background-image: url("./back.png");
+    background-repeat: no-repeat;
+    margin-top: 200px;
+    margin-left: 150px;
+}
+.div-text{
+    text-align: center;
+}
+.div-text h3{
+    color: #272727;
+    font-size: 40px;
+    font-weight: 800; 
+}
+.div-text p {
+    color: rgba(39, 39, 39, 0.6);
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    margin: 20px 0px;
+    margin-bottom: 30px;
+}
+.div-text input{
+    width: 513px;
+    padding: 22px;
+    border: none;
+    border-radius: 8px;
+    background: #fff;
+    margin-right: 7px;
+  }
