@@ -85,12 +85,6 @@
     font-weight: 700;
     margin-top: 10px;
 }
-/* .fl-container img { */
-    width: 300px;
-    height: 300px;
-    padding: 100px 47px 57px 47px;
-    margin: 40px 10px 0px 10px;
-}
 .hot1{
     background-color: blueviolet;
     height: 560px;
@@ -222,4 +216,9 @@ footer{
     font-weight: 400;
     line-height: 30px;
     margin-bottom: 25px;
+}
+.all_right {
+    color: rgba(255, 255, 255, 0.4);
+    font-size: 16px;
+    font-weight: 400;
 }
