@@ -1,0 +1,40 @@
+
+
+.header{
+    background-color: #e554731a;
+}
+.header-container{
+    margin: 0px 110px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 97px;
+}
+.sms{
+    width: 708px;
+}
+.text1{
+    color: #291919;
+    font-size: 70px;
+    font-weight: 800;
+}
+.pera{
+    color: rgba(87, 82, 82, 0.6);
+    font-size: 17px;
+    font-weight: 390;
+    line-height: 25px;
+    margin: 30px 0px;
+}
+.button{
+    color: aliceblue;
+    border-radius: 8px;
+    background: #ec043a;
+    padding: 25px 45px;
+    border: none;
+}
+.ph{
+    width: 600px;
+    height: 650px;
+
+}
+/* Main part  */
